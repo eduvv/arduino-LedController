@@ -1,0 +1,7 @@
+.pioenvs
+.piolibdeps
+.vscode/*
+.travis.yml
+DemoReel100.ino
+platformio.ini
+test.ino
