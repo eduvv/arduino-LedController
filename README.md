@@ -16,11 +16,11 @@ This project used 2 libraries:
 ## Features
 | feature    | example         | 
 |:------------- |:-------------|
-| Solid color | [example](https://streamable.com/qeslt)| 
-| Fade |[example](https://streamable.com/lnfix)|
-| Rainbow |[example](https://streamable.com/du4m3)|
-| Bleed |[example](https://streamable.com/vonfq)|
-| Speed control |[example](https://streamable.com/h6yyl)|
-| Brightness control |[example](https://streamable.com/agday)|
+| Solid color | ![example](https://media.giphy.com/media/326a467L5LPkKk4A4g/giphy.gif)| 
+| Fade |![example](https://media.giphy.com/media/21RADEtnYtdjah4CoR/giphy.gif)|
+| Rainbow |![example](https://media.giphy.com/media/BpYqsPRIxy9VR2VAhm/giphy.gif)|
+| Bleed |![example](https://media.giphy.com/media/2rAKWZsUcXoLOD4FsX/giphy.gif)|
+| Speed control |![example](https://media.giphy.com/media/cZ0L35A2vkcbPgQPI4/giphy.gif)|
+| Brightness control |![example](https://media.giphy.com/media/2xPPqgL8LYDj4RQRhB/giphy.gif)|
 ## Diagram
 ![Fritzing diagram of the project.](https://i.imgur.com/KQnQSTK.png "LED Controller")
